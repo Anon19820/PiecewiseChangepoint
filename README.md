@@ -12,10 +12,10 @@ of change-points in pieceise exponential models.
 ## Installation
 
 You can install the released version of PiecewiseChangepoint from
-[GitHub](https://github.com/Philip-Cooney/PiecewiseChangepoint) with:
+[GitHub](https://github.com/Anon19820/PiecewiseChangepoint) with:
 
 ``` r
-devtools::install_github("Philip-Cooney/PiecewiseChangepoint")
+devtools::install_github("Anon19820/PiecewiseChangepoint")
 ```
 
 ## Worked Example
